@@ -8,3 +8,5 @@ test03:
 	love is a touch yet not a touch
 	
 	test03 log status
+	
+	soap opera
